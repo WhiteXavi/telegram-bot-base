@@ -12,7 +12,7 @@
   Once you've done this you should log in or sing in into telegram.
 </p>
 
-<h3>Talk to the BotFather</h3>
+<h3>Talk to the BotFather <img src="https://cdn-icons-png.freepik.com/512/7641/7641727.png" alt="verified" style="width: 20px; height: auto;"></h3>
 
 <p>  Follow the next commands:
         <ul>
