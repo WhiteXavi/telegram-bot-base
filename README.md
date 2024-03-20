@@ -12,7 +12,7 @@
   Once you've done this you should log in or sing in into telegram.
 </p>
 
-<h3>Talk to the BotFather</h3>
+<h3>Talk to the BotFather ![image](https://github.com/WhiteXavi/telegram-bot-base/assets/72735216/d12a6968-9465-4409-b439-29ed80da7e68)</h3>
 
 <p>  Follow the next commands:
         <ul>
