@@ -30,5 +30,5 @@
 </p>
 
 <p>
-  For the imports, I have imported everything form telegram and telegram.ext but you can import only what you need.
+  For the imports, I have imported everything from telegram and telegram.ext but you can import only what you need.
 </p>
