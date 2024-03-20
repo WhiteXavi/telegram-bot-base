@@ -28,3 +28,7 @@
   Now you can change the token for your bot token in the TOKEN constant,
   and your bots @ in the BOT_USERNAME constant
 </p>
+
+<p>
+  For the imports, I have imported everything form telegram and telegram.ext but you can import only what you need.
+</p>
